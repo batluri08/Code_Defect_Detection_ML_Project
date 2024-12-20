@@ -1,0 +1,5 @@
+
+fastapi
+uvicorn
+joblib
+scikit-learn  # Add if your model depends on scikit-learn
